@@ -10,3 +10,5 @@
 Использовалась реализация [API Telegram](https://github.com/python-telegram-bot/python-telegram-bot)
 
 И [драйвер PostgreSQL](https://github.com/python-postgres/fe)
+
+В директории 'sql' находятся скрипты создания таблиц использованных для тестирования
